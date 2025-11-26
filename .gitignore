@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Archivos generados por el bot
+pedidos.csv
+
+# Otros
+.env.*
+*.log
